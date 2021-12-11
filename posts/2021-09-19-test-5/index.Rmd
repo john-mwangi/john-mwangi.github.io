@@ -1,0 +1,59 @@
+---
+title: blogdown test
+author: John M.
+date: '2021-09-19'
+summary: "this is a summary of the post"
+description: "This is a description of the post."
+slug: []
+categories: []
+tags:
+  - blogdown
+  - R
+draft: yes
+---
+
+Added setup chunk.
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This is an example post.
+
+```{r message=FALSE, warning=FALSE}
+library(tidyverse)
+library(kableExtra)
+```
+
+We attempt to display a table. 
+
+```{r message=FALSE, warning=FALSE}
+data_raw <-
+read_csv(file = "E:\\Personal\\Resume\\Tasks\\Sendy\\inputs\\Train.csv") %>% 
+  select(dispatch_day, dispatch_day, order_carrier_type, rider_license_status, rider_amount) %>% 
+  head(20)
+
+data_raw %>% 
+  kbl() %>% 
+  kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"))
+```
+
+Table without kableExtra styling.
+
+```{r}
+data_raw
+```
+
+
+Default table.
+
+
+Another example.
+
+|Feature      |.Rmd |.Rmarkdown |.md  |
+|:------------|:----|:----------|:----|
+|Run R code   |yes  |yes        |no   |
+|Bibliography |yes  |yes        |no   |
+|Task list    |maybe|yes        |yes  |
+|MathJax      |yes  |maybe      |maybe|
+|HTML widgets |yes  |yes        |no   |
