@@ -5,6 +5,16 @@
     <link>https://data-simplified.dev/categories/</link>
     <description>Recent content in Categories on Data Simplified</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://data-simplified.dev/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Sep 2021 11:47:57 +0300</lastBuildDate><atom:link href="https://data-simplified.dev/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>R</title>
+      <link>https://data-simplified.dev/categories/r/</link>
+      <pubDate>Sun, 12 Sep 2021 11:47:57 +0300</pubDate>
+      
+      <guid>https://data-simplified.dev/categories/r/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
