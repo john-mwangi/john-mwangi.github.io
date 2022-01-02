@@ -6,7 +6,7 @@
     <description>Recent content on Data Simplified</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Sep 2021 11:47:57 +0300</lastBuildDate><atom:link href="https://data-simplified.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Sep 2021 11:47:57 +0300</lastBuildDate><atom:link href="https://data-simplified.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
       <link>https://data-simplified.dev/aboutme/</link>
@@ -15,26 +15,6 @@
       <guid>https://data-simplified.dev/aboutme/</guid>
       <description>I’m a data analytics specialist with interests in: data science, machine learning, deep learning, statistics, business intelligence, analytics, data engineering, ML Ops, and data governance.
 I have a little over 10 years&#39; experience (as at 2021) and over the time, I&amp;rsquo;ve had the good fortune of doing a very wide variety of projects: started as a consultant with one of the Big Four firms doing technology audits, transitioned to technology advisory focusing on tech strategy development, system implementations, and data analytics, moved to a tier 1 bank doing data governance, moved back to consulting and did a lot of ML and BI projects, then joined a start-up focusing on application of ML and statistics in Behavioural Science.</description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>https://data-simplified.dev/posts/my-first-post/</link>
-      <pubDate>Sun, 19 Sep 2021 11:47:57 +0300</pubDate>
-      
-      <guid>https://data-simplified.dev/posts/my-first-post/</guid>
-      <description>Heading 1 Heading 1 content.
-Heading 2 Heading 2 content.
-Heading 3 Heading 3 content.</description>
-    </item>
-    
-    <item>
-      <title>blogdown test</title>
-      <link>https://data-simplified.dev/posts/2021-09-19-test-5/</link>
-      <pubDate>Sun, 19 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://data-simplified.dev/posts/2021-09-19-test-5/</guid>
-      <description>This is a description of the post.</description>
     </item>
     
     <item>

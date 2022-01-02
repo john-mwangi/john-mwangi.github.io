@@ -5,31 +5,16 @@
     <loc>https://data-simplified.dev/aboutme/</loc>
     <lastmod>2021-12-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://data-simplified.dev/</loc>
-    <lastmod>2021-09-19T11:47:57+03:00</lastmod>
-  </url><url>
-    <loc>https://data-simplified.dev/posts/my-first-post/</loc>
-    <lastmod>2021-09-19T11:47:57+03:00</lastmod>
-  </url><url>
-    <loc>https://data-simplified.dev/posts/</loc>
-    <lastmod>2021-09-19T11:47:57+03:00</lastmod>
-  </url><url>
-    <loc>https://data-simplified.dev/tags/blogdown/</loc>
-    <lastmod>2021-09-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://data-simplified.dev/posts/2021-09-19-test-5/</loc>
-    <lastmod>2021-09-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://data-simplified.dev/tags/r/</loc>
-    <lastmod>2021-09-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://data-simplified.dev/tags/</loc>
-    <lastmod>2021-09-19T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://data-simplified.dev/categories/</loc>
     <lastmod>2021-09-12T11:47:57+03:00</lastmod>
   </url><url>
+    <loc>https://data-simplified.dev/</loc>
+    <lastmod>2021-09-12T11:47:57+03:00</lastmod>
+  </url><url>
     <loc>https://data-simplified.dev/tags/machine-learning/</loc>
+    <lastmod>2021-09-12T11:47:57+03:00</lastmod>
+  </url><url>
+    <loc>https://data-simplified.dev/posts/</loc>
     <lastmod>2021-09-12T11:47:57+03:00</lastmod>
   </url><url>
     <loc>https://data-simplified.dev/categories/r/</loc>
@@ -39,6 +24,9 @@
     <lastmod>2021-09-12T11:47:57+03:00</lastmod>
   </url><url>
     <loc>https://data-simplified.dev/tags/statistics/</loc>
+    <lastmod>2021-09-12T11:47:57+03:00</lastmod>
+  </url><url>
+    <loc>https://data-simplified.dev/tags/</loc>
     <lastmod>2021-09-12T11:47:57+03:00</lastmod>
   </url><url>
     <loc>https://data-simplified.dev/search/</loc>
