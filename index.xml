@@ -6,7 +6,16 @@
     <description>Recent content on Data Simplified</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Sep 2021 11:47:57 +0300</lastBuildDate><atom:link href="https://data-simplified.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://data-simplified.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fuzzy Joins and Multiprocessing</title>
+      <link>https://data-simplified.dev/posts/2022-01-12/fuzzy_join/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-simplified.dev/posts/2022-01-12/fuzzy_join/</guid>
+      <description>We examine how to join two tables when the columns contain non-matching text by using string distances.</description>
+    </item>
+    
     <item>
       <title>About Me</title>
       <link>https://data-simplified.dev/aboutme/</link>

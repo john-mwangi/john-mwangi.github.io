@@ -6,7 +6,43 @@
     <description>Recent content in Tags on Data Simplified</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Sep 2021 11:47:57 +0300</lastBuildDate><atom:link href="https://data-simplified.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://data-simplified.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>fuzzy matching</title>
+      <link>https://data-simplified.dev/tags/fuzzy-matching/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-simplified.dev/tags/fuzzy-matching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multiprocessing</title>
+      <link>https://data-simplified.dev/tags/multiprocessing/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-simplified.dev/tags/multiprocessing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multithreading</title>
+      <link>https://data-simplified.dev/tags/multithreading/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-simplified.dev/tags/multithreading/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>string distances</title>
+      <link>https://data-simplified.dev/tags/string-distances/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-simplified.dev/tags/string-distances/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>machine learning</title>
       <link>https://data-simplified.dev/tags/machine-learning/</link>

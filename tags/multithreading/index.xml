@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>multithreading on Data Simplified</title>
+    <link>https://data-simplified.dev/tags/multithreading/</link>
+    <description>Recent content in multithreading on Data Simplified</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://data-simplified.dev/tags/multithreading/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fuzzy Joins and Multiprocessing</title>
+      <link>https://data-simplified.dev/posts/2022-01-12/fuzzy_join/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-simplified.dev/posts/2022-01-12/fuzzy_join/</guid>
+      <description>We examine how to join two tables when the columns contain non-matching text by using string distances.</description>
+    </item>
+    
+  </channel>
+</rss>
